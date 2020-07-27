@@ -1,0 +1,19 @@
+
+2020-05-26T09:11:27.436Z: Running 1 resource on http://localhost:8002
+2020-05-26T09:11:29.433Z: Committing new data for D:\Учёба\3 curs\2 сем\РИС\lab4_6\remote-sources/resource2/state.json
+2020-05-26T09:11:31.435Z: Committing new data for D:\Учёба\3 curs\2 сем\РИС\lab4_6\remote-sources/resource2/state.json
+2020-05-26T09:11:33.435Z: Committing new data for D:\Учёба\3 curs\2 сем\РИС\lab4_6\remote-sources/resource2/state.json
+2020-05-26T09:11:35.448Z: Committing new data for D:\Учёба\3 curs\2 сем\РИС\lab4_6\remote-sources/resource2/state.json
+2020-05-26T09:11:37.448Z: Committing new data for D:\Учёба\3 curs\2 сем\РИС\lab4_6\remote-sources/resource2/state.json
+2020-05-26T09:11:39.448Z: Committing new data for D:\Учёба\3 curs\2 сем\РИС\lab4_6\remote-sources/resource2/state.json
+2020-05-26T09:11:41.449Z: Committing new data for D:\Учёба\3 curs\2 сем\РИС\lab4_6\remote-sources/resource2/state.json
+2020-05-26T09:11:42.901Z: Synchronizing resource-2 time with the data center's one: 2020-05-26T09:11:42.734Z
+2020-05-26T09:11:43.449Z: Committing new data for D:\Учёба\3 curs\2 сем\РИС\lab4_6\remote-sources/resource2/state.json
+2020-05-26T09:11:44.743Z: Retrieving resource-2's data, entity length: 20
+2020-05-26T09:11:45.449Z: Committing new data for D:\Учёба\3 curs\2 сем\РИС\lab4_6\remote-sources/resource2/state.json
+2020-05-26T09:11:45.738Z: Synchronizing resource-2 time with the data center's one: 2020-05-26T09:11:45.732Z
+2020-05-26T09:11:46.737Z: Retrieving data from data center for the 2 resource
+2020-05-26T09:11:47.449Z: Committing new data for D:\Учёба\3 curs\2 сем\РИС\lab4_6\remote-sources/resource2/state.json
+2020-05-26T09:11:48.739Z: Synchronizing resource-2 time with the data center's one: 2020-05-26T09:11:48.734Z
+2020-05-26T09:11:49.449Z: Committing new data for D:\Учёба\3 curs\2 сем\РИС\lab4_6\remote-sources/resource2/state.json
+2020-05-26T09:11:49.760Z: Retrieving resource-2's data, entity length: 6

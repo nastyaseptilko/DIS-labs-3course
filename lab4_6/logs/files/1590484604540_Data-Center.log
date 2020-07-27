@@ -1,0 +1,34 @@
+
+2020-05-26T09:16:44.540Z: Data center start
+2020-05-26T09:16:49.559Z: Collected data from resource-2
+2020-05-26T09:16:49.559Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-05-26T09:16:54.551Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-05-26T09:16:54.551Z: Collected data from resource-2
+2020-05-26T09:16:59.554Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-05-26T09:16:59.555Z: Collected data from resource-2
+2020-05-26T09:17:04.551Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-05-26T09:17:04.551Z: Collected data from resource-2
+2020-05-26T09:17:09.551Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-05-26T09:17:09.551Z: Collected data from resource-2
+2020-05-26T09:17:14.555Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-05-26T09:17:14.555Z: Collected data from resource-2
+2020-05-26T09:17:19.557Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-05-26T09:17:19.557Z: Collected data from resource-2
+2020-05-26T09:17:24.556Z: Collected data from resource-2
+2020-05-26T09:17:24.556Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-05-26T09:17:29.560Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-05-26T09:17:29.561Z: Collected data from resource-2
+2020-05-26T09:17:34.558Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-05-26T09:17:34.558Z: Collected data from resource-2
+2020-05-26T09:17:39.556Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-05-26T09:17:39.556Z: Collected data from resource-2
+2020-05-26T09:17:44.561Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-05-26T09:17:44.561Z: Collected data from resource-2
+2020-05-26T09:17:49.558Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-05-26T09:17:49.558Z: Collected data from resource-2
+2020-05-26T09:17:54.563Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-05-26T09:17:54.563Z: Collected data from resource-2
+2020-05-26T09:17:59.558Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-05-26T09:17:59.558Z: Collected data from resource-2
+2020-05-26T09:18:04.557Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-05-26T09:18:04.557Z: Collected data from resource-2
